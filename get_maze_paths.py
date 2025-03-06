@@ -35,3 +35,4 @@ columns = input("enter number of columns")
 get_maze_paths(int(rows),int(columns))
 
 #time complexity -> 2^n
+# similar leetcode question -> https://leetcode.com/problems/unique-paths/description/
